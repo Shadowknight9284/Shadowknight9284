@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🔭 **Currently Working On:** Personal Projects! 
 - 🌱 **Learning:** Exploring machine learning and data science
 - 💬 **Ask Me About:** Math, Machine Learning, and Statistics 
-- 📫 **How to Reach Me:** You can reach me via [Email](mailto:pt422@scarletmail.rutgers.edu) or [LinkedIn](https://www.linkedin.com/in/pranavtikkawar)
+- 📫 **How to Reach Me:** You can reach me via [Email](mailto:pt422@scarletmail.rutgers.edu) or [LinkedIn](https://www.linkedin.com/in/pranav-tikkawar)
 - ⚡ **Fun Fact:** I love pokemon and mathematics
 
