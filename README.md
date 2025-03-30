@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## About Me
 
-- 💻 **Current Role:** Full-stack Developer
-- 🎓 **Education:** Bachelor's Degree in Computer Science
-- 🌟 **Skills:** JavaScript, Python, React, Node.js, SQL, HTML, CSS
-- 🔭 **Currently Working On:** Contributing to open-source projects and building web applications
+- 💻 **Current Interests:** Data Science, Math, Statistics, and Full Stack Development
+- 🎓 **Education:** Bachelor's Degree in Math, Computer Science, Data Science, and Statistics 
+- 🌟 **Skills:** Java, Python, R, MATLAB, Flask, HTML, CSS, JS, SQL, LaTeX, Excel
+- 🔭 **Currently Working On:** Personal Projects! 
 - 🌱 **Learning:** Exploring machine learning and data science
-- 💬 **Ask Me About:** Web development, JavaScript frameworks, and best coding practices
+- 💬 **Ask Me About:** Math, Machine Learning, and Statistics 
 - 📫 **How to Reach Me:** You can reach me via [Email](mailto:pt422@scarletmail.rutgers.edu) or [LinkedIn](https://www.linkedin.com/in/pranavtikkawar)
-- ⚡ **Fun Fact:** I'm love pokemon and mathemmatics
+- ⚡ **Fun Fact:** I love pokemon and mathematics
 
